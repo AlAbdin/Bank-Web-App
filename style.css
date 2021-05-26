@@ -1,0 +1,86 @@
+*{margin:0; padding:0}
+    body{
+        background-color:#f5683d;
+    }
+
+    .form-container{
+        width: 250px;
+        height: auto;
+        padding: 20px 30px;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 0 10px 0 #000;
+        margin: auto;
+    }
+
+    ul.list{
+        list-style-type: none;
+        text-align: center;
+    }
+
+    ul.list li{
+        width: 250px;
+        margin-bottom: 18px;
+    }
+
+    ul.list li input{
+        width:250px;
+        text-align: center;
+        padding: 8px 0px;
+        border: none;
+        background-color: #d3d3d3;
+        border-radius: 5px;
+    }
+
+    input[name= "b1"]{
+        background-color: #4690fb;
+        text-align: center;
+        font-size: 17px;
+        width:250px;
+        text-align: center;
+        padding: 8px 0px;
+        border: none;
+        border-radius: 5px;
+        color: #fff;
+        box-shadow: 0 5px #666;
+    }
+
+    input[name= "Deposit"]{
+        background-color: #4690fb;
+        text-align: center;
+        font-size: 17px;
+        width:250px;
+        text-align: center;
+        padding: 8px 0px;
+        border: none;
+        border-radius: 5px;
+        color: #fff;
+        box-shadow: 0 5px #666;
+    }
+    input[name= "Withdraw"]{
+        background-color: #4690fb;
+        text-align: center;
+        font-size: 17px;
+        width:250px;
+        text-align: center;
+        padding: 8px 0px;
+        border: none;
+        border-radius: 5px;
+        color: #fff;
+        box-shadow: 0 5px #666;
+    }
+    input[name= "Transfer"]{
+        background-color: #4690fb;
+        text-align: center;
+        font-size: 17px;
+        width:250px;
+        text-align: center;
+        padding: 8px 0px;
+        border: none;
+        border-radius: 5px;
+        color: #fff;
+        box-shadow: 0 5px #666;
+    }
+
+
+
