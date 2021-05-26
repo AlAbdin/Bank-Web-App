@@ -65,5 +65,4 @@ Log out
 * **Alaa Abdin aabdin@csu.fullerton.edu**
 * **Paul Smith pgsmith@csu.fullerton.edu** 
 * **Benjamin Heng bheng@csu.fullerton.edu**
-* **Luan Nguyen tonguyen500@csu.fullerton.edu**
-* **Neda Khanaki neda.khanaki@csu.fullerton.edu**
+
